@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "perdly",
+    "password": "root",
+    "database": "binar_car",
+    "host": "127.0.0.1",
+    "dialect": "postgresql"
+  },
+  "test": {
+    "username": "perdly",
+    "password": "root",
+    "database": "binar_car",
+    "host": "127.0.0.1",
+    "dialect": "postgresql"
+  },
+  "production": {
+    "username": "perdly",
+    "password": "root",
+    "database": "binar_car",
+    "host": "127.0.0.1",
+    "dialect": "postgresql"
+  }
+}
